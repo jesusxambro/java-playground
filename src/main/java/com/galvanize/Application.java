@@ -3,6 +3,7 @@ package com.galvanize;
 public class Application {
 
     public static void main(String[] args) {
+<<<<<<< HEAD
         String helloWorld = "Hello World";
         System.out.println(helloWorld);
 
@@ -22,6 +23,10 @@ public class Application {
         }else{
             System.out.println("F");
         }
+=======
+
+        System.out.println("hello world");
+>>>>>>> d8f61845d297c31339158b781e41ef1847d90723
     }
 
 }
